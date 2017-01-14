@@ -1,5 +1,6 @@
 #!/usr/bin/python
-
+# -*- coding: utf-8 -*-
+#
 # ---------------- READ ME ---------------------------------------------
 # This Script is Created Only For Practise And Educational Purpose Only
 # This is an Example Of Tkinter Canvas Graphics
